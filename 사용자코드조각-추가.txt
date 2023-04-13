@@ -1,0 +1,56 @@
+
+   :: 해상도 및 세계 통계
+
+   ※ 국내외 통계 사이트를 참조해서, 해상도 / 디바이스 크기 / 다양한 환경에 대해서 참조!    
+
+      https://gs.statcounter.com/     [statcounter]
+
+    1) 해상도 통계
+
+    https://gs.statcounter.com/screen-resolution-stats   [세계]
+
+   https://gs.statcounter.com/screen-resolution-stats/all/south-korea [한국]
+
+    :: 사용자 코드 조각 추가 (snippet)
+
+    - 스니펫은 재사용 가능한 소스 코드, 기계어, 텍스트의 작은 부분을 일컫는 프로그래밍 용어이다
+
+    VSC > 파일 > 기본설정 > 사용자 코드 조각
+                                                  (User Snippets)
+
+     JSON : Javascript Object Notation (자바스크립트 문법이랑 비슷) 형태로 저장
+     ※ 문자열 묶는 기호 : " 나 '의 중첩만 주의, ESCAPE 처리 \
+
+    [1] 사용자 코드 조각이 없다면, 먼저 만들기   ex> my-snippet
+    [2] 이미 사용자 코드조각이 생성되어있다면, 선택하기 
+    [3] 편집  --> Example: 이하 10줄 정도?를 복사해서, 새로운 코드조각 만들때마다 재사용
+
+    1) google font :     gf
+    2) google font icon :     gfi
+    3) css reset :    re
+
+
+
+
+   :: 사용자 정의 단축키 (바로가기키)
+
+
+
+  :: Naming Rule(네이밍 규칙)
+
+   - 구글
+   - 다음
+   - 네이버
+   - 그밖에 ...어떻게 하면 네이밍을 잘하는지 고민!!
+
+
+
+
+
+
+
+
+
+
+
+

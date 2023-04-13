@@ -1,0 +1,40 @@
+@charset "utf-8";
+
+body {
+    font-family: "Maven Pro", "Noto Sans KR", sans-serif;
+    font-size: 14px;
+    color: #000;
+    background: url("../images/bg.png"); /* 한번에 배경관련 속성을 나열 */
+}
+
+.d-none {
+    display: none
+}
+
+ul, ol {
+    list-style-type: none;
+}
+
+/* 이벤트 배너 */
+.event {
+    position: absolute;
+    right: 5%;
+    top: 15%;
+}
+
+/* =================== 헤더영역 ====================== */
+.header-wrap {
+    max-width: 1190px; /* 화면폭이 1190 이하면, 100% */
+    margin: 0 auto;    
+    display:flow-root
+}
+
+.main-logo {
+    float:left;
+}
+.main-nav {
+    float: left;
+}
+.sns-links {
+    float: right;
+}
